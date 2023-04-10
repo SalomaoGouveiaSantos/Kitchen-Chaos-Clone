@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &338317186428404134
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1031402213613419424, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_Name
+      value: CountainerCounter_Cabbage
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 1031402213613419426, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098750930534192871, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 0b6ff166993345f47a2d919d736163fa,
+        type: 2}
+    - target: {fileID: 8655961475258360562, guid: 3b7affb84862969458524308379118fc,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e1c23b5aded59d84da30738d3267a6c9,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3b7affb84862969458524308379118fc, type: 3}
